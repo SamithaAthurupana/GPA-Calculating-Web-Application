@@ -1,0 +1,1110 @@
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\razor-gpa-web-app.StaticWebAssets.xml
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\razor-gpa-web-app.exe
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\razor-gpa-web-app.deps.json
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\razor-gpa-web-app.runtimeconfig.json
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\razor-gpa-web-app.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\razor-gpa-web-app.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\razor-gpa-web-app.pdb
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\razor-gpa-web-app.Views.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\razor-gpa-web-app.Views.pdb
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.TagHelpers.input.cache
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.TagHelpers.output.cache
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.RazorCoreGenerate.cache
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\AcademicYears\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\AcademicYears\Delete.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\AcademicYears\Details.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\AcademicYears\Edit.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\AcademicYears\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Degrees\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Degrees\Delete.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Degrees\Details.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Degrees\Edit.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Degrees\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Departments\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Departments\Delete.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Departments\Details.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Departments\Edit.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Departments\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Faculties\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Faculties\Delete.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Faculties\Details.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Faculties\Edit.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Faculties\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\GenerateSGPA\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\GenerateSGPA\Delete.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\GenerateSGPA\Details.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\GenerateSGPA\Edit.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\GenerateSGPA\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\GetAllGPAs\GetSGPAs.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\GetAllGPAs\GetYGPAFGPAs.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\GetSingleGPAs\GetStudentGPAs.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Grades\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Grades\Delete.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Grades\Details.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Grades\Edit.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Grades\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\HODPages\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Intakes\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Intakes\Delete.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Intakes\Details.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Intakes\Edit.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Intakes\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Papers\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Papers\Delete.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Papers\Details.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Papers\Edit.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Papers\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\SGPAs\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\SGPAs\Delete.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\SGPAs\Details.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\SGPAs\Edit.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\SGPAs\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\SubjectModules\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\SubjectModules\Delete.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\SubjectModules\Details.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\SubjectModules\Edit.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\SubjectModules\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\UserModels\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\UserModels\Delete.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\UserModels\Details.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\UserModels\Edit.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\UserModels\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Users\Delete.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Users\Edit.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Users\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\YGPAs\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\YGPAs\Delete.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\YGPAs\Details.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\YGPAs\Edit.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\YGPAs\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.Views.pdb
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.csproj.CopyComplete
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\staticwebassets\razor-gpa-web-app.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\staticwebassets\razor-gpa-web-app.StaticWebAssets.xml
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.dll
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.pdb
+C:\Users\ASUS\Desktop\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.genruntimeconfig.cache
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\appsettings.json
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\razor-gpa-web-app.StaticWebAssets.xml
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\razor-gpa-web-app.exe
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\razor-gpa-web-app.deps.json
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\razor-gpa-web-app.runtimeconfig.json
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\razor-gpa-web-app.runtimeconfig.dev.json
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\razor-gpa-web-app.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\razor-gpa-web-app.pdb
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\razor-gpa-web-app.Views.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\razor-gpa-web-app.Views.pdb
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.csproj.AssemblyReference.cache
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.AssemblyInfoInputs.cache
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.AssemblyInfo.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.csproj.CoreCompileInputs.cache
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.MvcApplicationPartsAssemblyInfo.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.MvcApplicationPartsAssemblyInfo.cache
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.RazorAssemblyInfo.cache
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.RazorAssemblyInfo.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\staticwebassets\razor-gpa-web-app.StaticWebAssets.Manifest.cache
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\staticwebassets\razor-gpa-web-app.StaticWebAssets.xml
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\scopedcss\bundle\razor-gpa-web-app.styles.css
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.TagHelpers.input.cache
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.TagHelpers.output.cache
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.RazorCoreGenerate.cache
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\AcademicYears\Create.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\AcademicYears\Delete.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\AcademicYears\Details.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\AcademicYears\Edit.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\AcademicYears\Index.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Degrees\Create.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Degrees\Delete.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Degrees\Details.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Degrees\Edit.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Degrees\Index.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Departments\Create.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Departments\Delete.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Departments\Details.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Departments\Edit.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Departments\Index.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Faculties\Create.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Faculties\Delete.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Faculties\Details.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Faculties\Edit.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Faculties\Index.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\GenerateSGPA\Create.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\GenerateSGPA\Delete.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\GenerateSGPA\Details.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\GenerateSGPA\Edit.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\GenerateSGPA\Index.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\GetAllGPAs\GetSGPAs.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\GetAllGPAs\GetYGPAFGPAs.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\GetSingleGPAs\GetStudentGPAs.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Grades\Create.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Grades\Delete.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Grades\Details.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Grades\Edit.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Grades\Index.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\HODPages\Index.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Intakes\Create.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Intakes\Delete.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Intakes\Details.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Intakes\Edit.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Intakes\Index.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Papers\Create.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Papers\Delete.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Papers\Details.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Papers\Edit.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Papers\Index.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\SGPAs\Create.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\SGPAs\Delete.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\SGPAs\Details.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\SGPAs\Edit.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\SGPAs\Index.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Index.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\SubjectModules\Create.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\SubjectModules\Delete.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\SubjectModules\Details.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\SubjectModules\Edit.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\SubjectModules\Index.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\UserModels\Create.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\UserModels\Delete.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\UserModels\Details.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\UserModels\Edit.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\UserModels\Index.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Users\Delete.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Users\Edit.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\Users\Index.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\YGPAs\Create.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\YGPAs\Delete.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\YGPAs\Details.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\YGPAs\Edit.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\YGPAs\Index.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.RazorTargetAssemblyInfo.cache
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.RazorTargetAssemblyInfo.cs
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.Views.pdb
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.csproj.CopyComplete
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.dll
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.pdb
+F:\4th Semester\GPA-Group06-Calculation-Managment-System\razor-gpa-web-app-dev\razor-gpa-web-app\obj\Debug\netcoreapp3.1\razor-gpa-web-app.genruntimeconfig.cache
